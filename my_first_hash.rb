@@ -45,5 +45,7 @@ def adding
 
   # return the shipping_manifest hash below
 
+  reversed_h = Hash[h.to_a.reverse]
+
   puts shipping_manifest
 end
