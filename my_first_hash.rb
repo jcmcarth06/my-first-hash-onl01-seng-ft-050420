@@ -47,5 +47,5 @@ def adding
 
   
 
-  puts shipping_manifest
+  shipping_manifest
 end
